@@ -1,46 +1,31 @@
-📱 Manual Testing of Google Keep Mobile App
-📝 Project Overview
-This project is a Manual Testing Portfolio Project aimed at practicing mobile app testing using Google Keep. The main focus is on core features testing, following real-world software testing workflows.
+# Google Keep Mobile App - Manual Testing
 
-🔍 Scope of Testing
-Create, Edit, Delete Notes
+## 📱 Project Overview
+This project demonstrates manual testing practice for the **Google Keep Mobile App**. It focuses on verifying core functionalities like note creation, editing, deletion, and UI validation.
 
-Change Note Color
+## 📝 Scope of Testing
+- Create, Edit, Delete Notes
+- Change Note Color
+- View Note List
+- Basic UI Validation
+- Handle Edge Cases (empty note, duplicate save)
 
-View Note List
+## 🚫 Out of Scope
+- Collaboration and Sharing
+- Account Sync
+- Voice Notes
 
-UI Validation (buttons, fields)
+## 🧰 Tools Used
+- Android Device (Real)
+- Excel (Test Case Management)
+- Word (Test Plan Documentation)
 
-Basic Edge Cases: Empty note, duplicate save
+## 📂 Deliverables
+- **Test Plan** (`test_plan.docx`)
+- **Test Cases** (`test_cases.xlsx`)
 
-🚫 Out of Scope
-Collaboration/Share Note features
+## 👩‍💻 Author
+Nguyen Thi Tam Nhi  
+[LinkedIn](https://www.linkedin.com/in/tamnhi/) | [GitHub](https://github.com/namiiiah)
 
-Account sync or backup
-
-Voice Note/Audio Recording
-
-🧰 Tools Used
-Device: Android (Real Device)
-
-Test Management: Excel (for Test Case)
-
-Documentation: Word (for Test Plan)
-
-📂 Deliverables
-File	Description
-Test Plan	Project scope, schedule, risks
-Test Case	Detailed test scenarios
-
-📅 Schedule
-All activities (test case creation, execution, reporting) were performed on 22/07/2025.
-
-👩‍💻 Tester
-Nguyen Thi Tam Nhi
-
-🚀 How to Use This Project
-Review the Test Plan to understand the project scope and objectives.
-
-Open the Test Case Excel file to view test scenarios, steps, and results.
-
-Use this project as part of your QA Portfolio or to showcase your mobile app testing experience.
+---
